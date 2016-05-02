@@ -326,7 +326,7 @@ about{
     max-height: 150px; 
 }
 
-#about_text{
+.about_text{
     padding-top: .8em;
     font-size: .9em;
     top: 50%;
@@ -348,7 +348,7 @@ about{
     color: darkseagreen;
 }
 
-#link_1 {
+.link_1 {
     font-family: 'Catamaran', sans-serif;
     color: darkgray;
     display: inline-block;
@@ -357,7 +357,7 @@ about{
     font-size: .4em;
 }
 
-#link_1:hover {
+.link_1:hover {
     color: darkseagreen;
     transform: scale(1.1);
 }

@@ -1,3 +1,21 @@
+/*
+* Taylor Ross
+* GrC 338
+* Mobile Website
+* Updated: 5.02.16
+*/
+
+#p {
+    font-family: 'Catamaran', sans-serif;
+    color: darkgray;
+    display: inline-block;
+    margin: auto;
+    text-decoration: none;
+    text-align: center;
+    font-size: .75em; 
+}
+
+/* -------------------- Index.html ------------------ */
 #logo {
     
     max-width: 23%;
@@ -13,16 +31,7 @@
     
 }
 
-#p {
-    font-family: 'Catamaran', sans-serif;
-    color: darkgray;
-    display: inline-block;
-    margin: auto;
-    text-decoration: none;
-    text-align: center;
-    font-size: .75em; 
-}
-
+/* -------------------- Home Menu Formatting/Style ------------------ */
 #icon {
     font-size: 1em;
     float: right;
@@ -36,13 +45,8 @@
     transform: scale(1.1);
 }
 
-#body_home{
-   background-color: ;
-}
 
-
-
-/* -------------------- Fade In animation for lower icon ------------------ */
+/* -------------------- Fade In animation for home menu ------------------ */
 #link1{
     -webkit-animation: fadein 8s;
        -moz-animation: fadein 8s;
@@ -101,20 +105,9 @@
 }
 
 /* ----------------------- End Animation ----------------------------------- */
-#icon_2:hover{
-    color: goldenrod;
-    text-decoration: none;
-    /*transform: scale(1.1);*/
-}
 
-#icon_2:after{
-    color: darkgray;
-    text-decoration: none;
-}
-
-a.icon_2 {
-    text-decoration: none !important;
-}
+/* [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]*/
 
 /* ----------------------- About Me ----------------------- */
 
@@ -375,7 +368,7 @@ about{
 }
 
 
-/* PROFESSIONAL PAGE */
+/* -------- PROFESSIONAL PAGE ----------- */
 
 #main_icon {
     padding-top: 3.25em;

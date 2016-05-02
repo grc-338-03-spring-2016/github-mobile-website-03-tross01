@@ -33,7 +33,7 @@
 
 /* -------------------- Home Menu Formatting/Style ------------------ */
 #icon {
-    font-size: 1em;
+    font-size: .8em;
     float: right;
     color: black;
     padding-right: 0.25em;
@@ -348,14 +348,9 @@ about{
     color: darkseagreen;
 }
 
-#text_sep {
-    padding-top: 1.2em;
-    font-size: .6em;
-}
-
 #link_1 {
     font-family: 'Catamaran', sans-serif;
-    color: lightgray;
+    color: darkgray;
     display: inline-block;
     margin: auto;
     text-decoration: none;
@@ -371,7 +366,7 @@ about{
 /* -------- PROFESSIONAL PAGE ----------- */
 
 #main_icon {
-    padding-top: 3.25em;
+    padding-top: 2em;
     padding-bottom: .25em;
     font-size: 3em;
 }
